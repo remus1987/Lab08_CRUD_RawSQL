@@ -1,0 +1,6 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Lab08_CRUD_App_Raw_SQL\bin\Debug\Lab08_CRUD_App_Raw_SQL.exe.config
+C:\Users\Remus Iftimie\Personal_GitHub\Lab08_CRUD_App_Raw_SQL\bin\Debug\Lab08_CRUD_App_Raw_SQL.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab08_CRUD_App_Raw_SQL\bin\Debug\Lab08_CRUD_App_Raw_SQL.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab08_CRUD_App_Raw_SQL\obj\Debug\Lab08_CRUD_App_Raw_SQL.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab08_CRUD_App_Raw_SQL\obj\Debug\Lab08_CRUD_App_Raw_SQL.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab08_CRUD_App_Raw_SQL\obj\Debug\Lab08_CRUD_App_Raw_SQL.pdb

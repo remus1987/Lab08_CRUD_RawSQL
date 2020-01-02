@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08_CRUD_App_Raw_SQL", "Lab08_CRUD_App_Raw_SQL.csproj", "{03ED29D3-6AFC-4E9B-85C1-73961D4A9FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03ED29D3-6AFC-4E9B-85C1-73961D4A9FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03ED29D3-6AFC-4E9B-85C1-73961D4A9FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03ED29D3-6AFC-4E9B-85C1-73961D4A9FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03ED29D3-6AFC-4E9B-85C1-73961D4A9FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {867F7125-7F74-4395-9DB8-89B048664790}
+	EndGlobalSection
+EndGlobal
